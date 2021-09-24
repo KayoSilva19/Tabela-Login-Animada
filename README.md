@@ -8,7 +8,6 @@
 </br>
 
 ### 🎲 Rodando o Front 
-<br>
 
 ```bash
 
@@ -22,5 +21,3 @@
     $ npm react-native run-android
 
 ```
-
-"# Tabela-Login-Animada" 
