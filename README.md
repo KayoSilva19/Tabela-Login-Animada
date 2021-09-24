@@ -3,6 +3,7 @@
 
 <img id="logo" src="./src/assets/logo.png" alt="Logo Do Projeto">
 </br>
+<p>PROJETO FEITO EM REACT-NATIVE</p>
 <p aling="center"> 💻 Projeto feito seguindo aulas de animação em React-Native (Projeto Retirado de uma das aulas)</p>
 
 </br>
