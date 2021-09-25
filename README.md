@@ -21,6 +21,6 @@
     $ cd telaLoginAnimada
 
     # Com o React-Native instalado execute o projeto
-    $ npm react-native run-android
+    $ npx react-native run-android
 
 ```
